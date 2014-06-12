@@ -9,7 +9,9 @@ Getting Cinder and PD to work together. Step sequencer with tempo and glide cont
 
 ![](/media/P1020795.JPG)
 
-<iframe width="853" height="480" src="//www.youtube.com/embed/kxeuY06tBBM?rel=0" frameborder="0" allowfullscreen></iframe>
+<iframe width="853" height="480" src="//www.youtube.com/embed/kxeuY06tBBM" frameborder="0" allowfullscreen></iframe>
+
+<iframe width="853" height="480" src="//www.youtube.com/embed/wVDLdnzhaV8" frameborder="0" allowfullscreen></iframe>
 
 ![](/media/sequencer-2014.06.10.png)
 

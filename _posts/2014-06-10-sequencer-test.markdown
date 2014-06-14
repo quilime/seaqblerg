@@ -1,24 +1,23 @@
 ---
 layout: post
-title:  "Cinder/PD Sequencer With Effects"
-date:   2014-06-10 21:27:58
+title:  "Limiter and Stuff"
+date:   2014-06-13
 categories: dev
 ---
 
-Getting Cinder and PD to work together. Step sequencer with tempo and glide controls, and a delayline with delay time, feedback, and mix.
+Worked out of CDG today (Ryan, Gabe).
 
-![](/media/P1020795.JPG)
+Ryan:
 
-<iframe width="853" height="480" src="//www.youtube.com/embed/kxeuY06tBBM" frameborder="0" allowfullscreen></iframe>
+- scene elem transform 
+- began implementing tap recognizer
+- tweaked ripple effect
+- helped Gabe implement Toggle
 
-<iframe width="853" height="480" src="//www.youtube.com/embed/wVDLdnzhaV8" frameborder="0" allowfullscreen></iframe>
+Gabe:
 
-![](/media/sequencer-2014.06.10.png)
+- UI Toggle Element
+- Added audio limiter to solve clipping issues
 
-Controls from the top down: Tempo, Glide, Delay Time, Feedback, Delay Mix
 
-#### PD Sequencer Patch
-![](/media/seq-2014-06-10.png)
-
-#### PD Pitch Delay Patch
-![](/media/fx-pitch-delay-2014-06-10.png)
+![](media/Screen Shot 2014-06-13 at 6.39.19 PM.png)

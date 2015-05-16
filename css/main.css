@@ -1,5 +1,5 @@
 .header h1, .header h2 {
-  font-size: 3.6rem;
+  font-size: 2.6rem;
   display:inline-block;
   border:none;
 }
@@ -9,7 +9,7 @@
   
 
 .site {
-  width: max-width:800px;
+  max-width:800px;
   margin: 3em 2em;
   padding:2em;
 }

@@ -39,11 +39,23 @@ Futher illustrations depicting interpolations between filter states.
 
 ## PD Patches
 
+Main filter patch
+
 ![](media/svf-Screen Shot 2015-05-15 at 11.39.01 PM.png)
+
+Filter mode crossfader (for circular control)
+
+![](media/filter-crossfade-Screen Shot 2015-05-15 at 11.40.27 PM.png)
+
+Filter Envelope
 
 ![](media/filters-Screen Shot 2015-05-15 at 8.11.02 PM.png)
 
+[mix~]
+
 ![](media/filters-Screen Shot 2015-05-15 at 8.10.54 PM.png)
+
+[mix~help]
 
 ![](media/filters-Screen Shot 2015-05-15 at 8.10.50 PM.png)
 

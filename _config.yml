@@ -1,3 +1,6 @@
+safe: true
+lsi: false
+source: ./
 name: Ye Ol Dev Blog
 markdown: redcarpet
 pygments: true

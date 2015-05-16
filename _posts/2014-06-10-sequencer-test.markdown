@@ -3,6 +3,7 @@ layout: post
 title:  "Limiter and Stuff"
 date:   2014-06-13
 categories: dev
+author: gabe
 ---
 
 Worked out of CDG today (Ryan, Gabe).

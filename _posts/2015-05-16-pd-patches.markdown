@@ -3,6 +3,7 @@ layout: post
 title:  "Patches"
 date:   2015-05-16
 categories: dev
+author: gabe
 ---
 
 This is an overview of the current patches in the synth, built with Pure Data (libpd) v0.46-6.

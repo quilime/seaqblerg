@@ -39,6 +39,8 @@ Futher illustrations depicting interpolations between filter states.
 
 ## PD Patches
 
+![](media/svf-Screen Shot 2015-05-15 at 11.39.01 PM.png)
+
 ![](media/filters-Screen Shot 2015-05-15 at 8.11.02 PM.png)
 
 ![](media/filters-Screen Shot 2015-05-15 at 8.10.54 PM.png)

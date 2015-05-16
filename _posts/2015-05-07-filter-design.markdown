@@ -16,6 +16,8 @@ Design mockups for a SVF (State Variable Filter) with the following functionalit
   - Value: Float, 0 - 1
 - Filter Envelope Attack Length
   - Value: Float, 0 - 2000ms range
+- Filter Attack Curve
+  - Value: Float -1 - 1 value range  
 - Filter Envelope Cutoff Frequency Start
   - Value: Float, 0 - 3000 range
 
@@ -64,7 +66,7 @@ Filter Envelope
 
 ## [video] Skeletal UI control structure demo
 
-<iframe width="640" height="480" src="https://www.youtube.com/embed/Y85d89PdBfU" frameborder="0" allowfullscreen></iframe>
+<iframe width="640" height="480" src="https://www.youtube.com/embed/Y85d89PdBfU?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
 
 
 

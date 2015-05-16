@@ -1,8 +1,8 @@
 safe: true
 lsi: false
 source: ./
-name: Ye Ol Dev Blog
+name: dervblerg
 markdown: redcarpet
 pygments: true
-baseurl: /seaq-dev-blog
+baseurl: /blerg
 permalink: :month-:day-:year-:title.html

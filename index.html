@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Your New Jekyll Site
+title: Dev Blog
 ---
 
 <div id="home">
@@ -8,10 +8,9 @@ title: Your New Jekyll Site
     {% for post in site.posts %}
       <li>
 
-      <span>{{ post.date | date_to_string }}</span>
+      <span class="date">{{ post.date | date: "%Y-%m-%d" }}</span>
 
-
-      <a href="/seaq-dev-blog{{ post.url }}">{{ post.title }}</a>
+      <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
 
       </li>
 

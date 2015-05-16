@@ -35,7 +35,9 @@ Illustrations of various filter ctrl states.
 
 Futher illustrations depicting interpolations between filter states.
 
-![](media/filter-attack-env-Screen Shot 2015-05-06 at 2.20.40 PM.png)
+![](media/filter-env-Screen Shot 2015-05-16 at 9.41.04 AM.png)
+
+Filter Envelope Editor
 
 ## PD Patches
 

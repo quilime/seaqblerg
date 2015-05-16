@@ -1,6 +1,6 @@
 safe: true
 lsi: false
-source: ./
+source: /seaq-dev-blog/
 name: Ye Ol Dev Blog
 markdown: redcarpet
 pygments: true

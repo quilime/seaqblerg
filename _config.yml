@@ -1,7 +1,7 @@
 safe: true
 lsi: false
 source: ./
-name: dervblerg
+name: dev notes
 markdown: redcarpet
 pygments: true
 baseurl: /blerg

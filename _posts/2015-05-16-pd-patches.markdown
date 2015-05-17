@@ -105,6 +105,14 @@ Finally, the audio is converted to stereo and mixed with balance and volume addi
 
 ![](media/outline/voice-mixer-Screen Shot 2015-05-16 at 3.38.58 PM.png)
 
+
+##### [delay]
+
+Tape delay.
+
+![](media/outline/delay-Screen Shot 2015-05-16 at 5.27.12 PM.png)
+
+
 ##### [mixer]
 
 Finally, the mixer takes all the audio from each voice and mixes them down. Here we have another final filter on the master LR, and put them through a compressor and a limiter, and finally from here, the sound goes to the DAC.

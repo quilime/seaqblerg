@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "midnight demo"
+date:   2015-05-19 00:06:50
+categories: dev
+author: gabe
+---
+
+Playing around with filters, and due to recent conversation, basically judging the pitch envelope and seeing if it's worthy to keep. It definitely comes in useful when making drum sounds.
+
+Finally figured out a solution for screen recording on OSX. I used Quicktime 7 for the video, and SoundFlower + Audacity for the audio. I then combined them together with Quicktime 7 Pro. Finally.
+
+<iframe width="640" height="480" src="https://www.youtube.com/embed/8Od-IqLKais?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>

@@ -6,3 +6,5 @@ markdown: redcarpet
 pygments: true
 baseurl: /blerg
 permalink: :month-:day-:year-:title.html
+exclude : [publish.sh, README.md]
+
